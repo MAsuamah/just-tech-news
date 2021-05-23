@@ -6,7 +6,11 @@ A tech news website where users can post, upvote, and comment on links to news a
 Create an account so can post, upvote, and comment.
 
 ## Built With
-* Sequelize ORM
+* Sequelize 
+* MySQL2
+* Node.js
+* Express.js
+* Handlebars.js
 
 ## Website
 https://safe-stream-90235.herokuapp.com/
