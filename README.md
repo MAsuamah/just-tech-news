@@ -31,7 +31,7 @@ click `dashboard` in the navagation bar. Your dashboard will look similar to the
 * Handlebars.js
 
 ## Website
-https://safe-stream-90235.herokuapp.com/
+https://mysterious-plains-27186.herokuapp.com/
 
 ## Contributors
 Michelle Asuamah
