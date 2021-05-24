@@ -32,6 +32,7 @@ click `dashboard` in the navagation bar. Your dashboard will look similar to the
 * bcrypt
 * dotenv
 * express-session
+* connect-session-sequelize
 
 
 ## Website
