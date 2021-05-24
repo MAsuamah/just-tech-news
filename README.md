@@ -29,6 +29,8 @@ click `dashboard` in the navagation bar. Your dashboard will look similar to the
 * Node.js
 * Express.js
 * Handlebars.js
+* bcrypt
+* dotenv
 
 ## Website
 https://mysterious-plains-27186.herokuapp.com/
