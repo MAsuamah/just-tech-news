@@ -20,13 +20,13 @@ To login, click `login` in the navigation bar. Enter your credentials or signup 
 
 ### Dashboard
 
-You will also have access to your dashboard where you can create new posts, and edit or delete older posts. You wil be taken to your dashboard as soon as you login. You can aalso access your dashboard by clicking `dashboard` in the navigation bar. Your dashboard will look similar to the following:
+Once you login you will be taken to your dashboard where you can create new posts, and edit or delete older posts. You can also access your dashboard by clicking `dashboard` in the navigation bar. Your dashboard will look similar to the following:
 
 <img width="900" alt="Screen Shot 2021-05-23 at 12 08 44 AM" src="https://user-images.githubusercontent.com/77217156/119248215-a46ea780-bb5d-11eb-96f7-28d6bcb1841f.png">
 
 ### Commenting and Voting
 
-Once you are logged in, when you click on `(number of) comments` you can now add your own comments and upvote posts.
+While logged in, you can now add your own comments and upvote posts. Click on `(number of) comments`  of the post you would like to comment on and/or upvote.
 
 ![Click on comments](https://user-images.githubusercontent.com/77217156/119248099-e1866a00-bb5c-11eb-9526-2792d6cc4985.gif)
 
