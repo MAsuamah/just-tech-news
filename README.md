@@ -26,7 +26,7 @@ Once you login you will be taken to your dashboard where you can create new post
 
 ### Commenting and Voting
 
-While logged in, you can now add your own comments and upvote posts. Click on `(number of) comments`  of the post you would like to comment on and/or upvote.
+While logged in, you can now add your own comments and upvote posts. Click on `(number of) comments`  of the post you would like to comment on and/or upvote to do so.
 
 ![Click on comments](https://user-images.githubusercontent.com/77217156/119248099-e1866a00-bb5c-11eb-9526-2792d6cc4985.gif)
 
