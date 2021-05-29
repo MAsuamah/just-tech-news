@@ -18,18 +18,17 @@ To login, click `login` in the navigation bar. Enter your credentials or signup 
 
 <img width="900" alt="Screen Shot 2021-05-23 at 12 07 45 AM" src="https://user-images.githubusercontent.com/77217156/119248173-5e194880-bb5d-11eb-84b4-530f5c929ede.png">
 
-### Commenting and Voting
-
-Once you are logged in, when you click on `(number of) comments` you can now add your own comments and upvote posts.
-
-![Click on comments](https://user-images.githubusercontent.com/77217156/119248099-e1866a00-bb5c-11eb-9526-2792d6cc4985.gif)
-
 ### Dashboard
 
 You will also have access to your dashboard where you can create new posts, and edit or delete older posts. You wil be taken to your dashboard as soon as you login. You can aalso access your dashboard by clicking `dashboard` in the navigation bar. Your dashboard will look similar to the following:
 
 <img width="900" alt="Screen Shot 2021-05-23 at 12 08 44 AM" src="https://user-images.githubusercontent.com/77217156/119248215-a46ea780-bb5d-11eb-96f7-28d6bcb1841f.png">
 
+### Commenting and Voting
+
+Once you are logged in, when you click on `(number of) comments` you can now add your own comments and upvote posts.
+
+![Click on comments](https://user-images.githubusercontent.com/77217156/119248099-e1866a00-bb5c-11eb-9526-2792d6cc4985.gif)
 
 
 ## Built With
