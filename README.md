@@ -26,8 +26,7 @@ Once you are logged in, when you click on `(number of) comments` you can now add
 
 ### Dashboard
 
-You will also have access to your dashboard where you can create new posts, and edit or delete older posts. To access your dashboard 
-click `dashboard` in the navigation bar. Your dashboard will look similar to the following:
+You will also have access to your dashboard where you can create new posts, and edit or delete older posts. You wil be taken to your dashboard as soon as you login. You can aalso access your dashboard by clicking `dashboard` in the navigation bar. Your dashboard will look similar to the following:
 
 <img width="900" alt="Screen Shot 2021-05-23 at 12 08 44 AM" src="https://user-images.githubusercontent.com/77217156/119248215-a46ea780-bb5d-11eb-96f7-28d6bcb1841f.png">
 
