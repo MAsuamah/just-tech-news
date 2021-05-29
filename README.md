@@ -5,6 +5,7 @@ A tech news website where users can post, upvote, and comment on links to news a
 ## How to Use
 On the landing page you will be able to see the posts and click on the link to read the article. 
 You can also read the comments under each post by clicking on `(number of) comments`.
+
 <img width="900" alt="Screen Shot 2021-05-23 at 12 07 04 AM" src="https://user-images.githubusercontent.com/77217156/119248128-227e7e80-bb5d-11eb-95b9-c69ab2a68142.png">
 
 * You can only comment, upvote and create/edit/delete posts if you are logged in.
