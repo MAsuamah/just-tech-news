@@ -18,7 +18,7 @@ To login, click `login` in the navigation bar. Enter your credentials or signup 
 
 <img width="900" alt="Screen Shot 2021-05-23 at 12 07 45 AM" src="https://user-images.githubusercontent.com/77217156/119248173-5e194880-bb5d-11eb-84b4-530f5c929ede.png">
 
-### Commenting
+### Commenting and Voting
 
 Once you are logged in, when you click on `(number of) comments` you can now add your own comments and upvote posts.
 
