@@ -31,11 +31,11 @@ router.get('/', (req, res) => {
       }
     ]
    })
-    .then(dbPostData => res.json(dbPostData))
-    .catch(err => {
-      console.log(err);
-      res.status(500).json(err);
-    }); 
+  .then(dbPostData => res.json(dbPostData))
+  .catch(err => {
+    console.log(err);
+    res.status(500).json(err);
+  }); 
 });
 
 router.get('/:id', (req, res) => {
@@ -43,17 +43,12 @@ router.get('/:id', (req, res) => {
     where: {
       id: req.params.id
     },
-    attributes: ['id', 
+    attributes: [
+      'id', 
       'post_url', 
       'title', 
       'created_at',
       [sequelize.literal('(SELECT COUNT(*) FROM vote WHERE post.id = vote.post_id)'), 'vote_count']
-    ],
-    include: [
-      {
-        model: User,
-        attributes: ['username']
-      }
     ],
     include: [
       // include the Comment model here:
